@@ -1,3 +1,6 @@
+//Ernestina Lamas
+//Comision 1
+//https://youtu.be/3UZB6fLRSxI
 let obra;
 let columnas;
 let filas;
