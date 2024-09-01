@@ -8,7 +8,7 @@ let tamaño;
 let opacidadMaxima;
 
 function preload() {
-  obra = loadImage("obratp3cambiada.jpg");
+  obra = loadImage("data/obratp3cambiada.jpg");
 }
 
 function setup() {
