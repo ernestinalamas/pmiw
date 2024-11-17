@@ -1,0 +1,20 @@
+   
+Un hombre caminando hacia su hogar.
+En cuanto llega, se sienta en su sillón verde para leer una novela.
+La novela cuenta como una pareja de amantes planean matar al esposo de la mujer.
+DECISION
+La pareja deja la cabaña y se dirigen a una mansión
+Los amantes se separan. El hombre armado se dirige hacia la casa del esposo,
+El amante llega a la mansión y busca la forma de entrar sin ser visto
+DECISION
+Lo descubren y lo atrapan
+Logra entrar sin ser visto
+El amante recorre los pasillos de la mansión con un cuchillo en su mano
+Abre la puerta de una habitación particular
+Entra a la habitación en la que hay un sillón verde y un hombre leyendo
+DECISION
+El hombre se defiende y mata al amante
+El lector muere
+La pareja llega a la mansion y entran sin ser vistos
+Entran a una habitacion con un sillon verde y un hombre leyendo
+LA MUJER AYUDA AL LECTOR Y JUNTOS MATAN AL AMANTE
